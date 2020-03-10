@@ -1,8 +1,5 @@
 # Compilers and Languages 2018, Assignment 2 — Implementing practical parsers
 
-All source code co-authored by Navjivan Pal (student #1529469) and Emily Weyda
-(student #1973139).
-
 ## Compilation
 
 The project has been written in Java. Compile from this directory simply with
