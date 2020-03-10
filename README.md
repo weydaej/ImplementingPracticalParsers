@@ -1,4 +1,4 @@
-# Compilers and Languages 2018, Assignment 2 — Implementing practical parsers
+# Compilers and Languages Assignment — Implementing practical parsers
 
 ## Compilation
 
