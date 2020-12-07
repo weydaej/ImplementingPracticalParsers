@@ -1,4 +1,4 @@
-# Compilers and Languages Assignment — Implementing practical parsers
+# Implementing practical parsers
 
 ## Compilation
 
